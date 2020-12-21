@@ -3,7 +3,7 @@
 ## New Update v1.2
 - In This update The time for Message Decrease to 1-3s for Person in Your contacts and 6-more for new person .
 - Time customization is Disabled Now it automatically detect the sleep period.
-
+- You can also msg to group or write the name of Group or contact in No seaction.
 ## This is Whatsapp Api for sending Message
 Steps for Running this Api
 - Run the ```main.py``` or Launch API.exe (In Zip)(Exe is not Updated Yet)
