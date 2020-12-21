@@ -1,7 +1,7 @@
 # WhatsAppApi
 ![](https://github.com/iamthehimansh/WhatsAppApi/blob/main/WhatsappApi.png)
 ## New Update v1.2
-- The main update i.e. The time for Message Decrease to 1-3s for Person in Your contacts and 6-more for new person .
+- In This update The time for Message Decrease to 1-3s for Person in Your contacts and 6-more for new person .
 - Time customization is Disabled Now it automatically detect the sleep period.
 
 ## This is Whatsapp Api for sending Message
