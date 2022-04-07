@@ -15,4 +15,4 @@ Steps for Running this Api
 - Costimize The api id And key in Api.json file.
 ### Thanks for using My Program/Application 
 
-#### Support me for Buying MacBook Pro I have a very old pc of $200 it is 3 year older Plz donate in Paytm 6200483104 or in upi iamthehimansh@ybl
+#### Contact me on +91 6200483104 or iamthehimansh@gmail.com himansh@codeprops.com
